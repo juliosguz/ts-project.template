@@ -27,7 +27,7 @@
     "copy-webpack-plugin": "^11.0.0",
     "dotenv": "^16.0.1",
     "eslint": "^8.19.0",
-    "fork-ts-checker-webpack-plugin": "^7.2.11",
+    "fork-ts-checker-webpack-plugin": "^7.2.12",
     "jest": "^28.1.2",
     "nodemon": "^2.0.19",
     "ts-jest": "^28.0.5",
